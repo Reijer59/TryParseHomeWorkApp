@@ -11,5 +11,5 @@ I want to learn CSharp so I get more knoweledge of OOP Programming.
 After finishing this course [C# Mastercourse](https://www.iamtimcorey.com/courses/csharp-mastercourse/) I hope to be able to write my own programs.  
 
 # Invitation  
-I would like to invite you to comment on homework assignments.  
+I would like to invite you to comment on this homework assignment.  
 This way I can learn for the input when my code is reviewed.
