@@ -4,7 +4,7 @@ Net 6.0
 ConsoleApp
 
 # Purpose
-This is an homework assignmant application for the C# Mastercourse to be reviewed by member students.  
+This is an homework assignment application for the C# Mastercourse to be reviewed by member students.  
 
 # Goal  
 I want to learn CSharp so I get more knoweledge of OOP Programming.  
